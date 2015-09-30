@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Awareness_Map" Class="AwarenessDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=Awareness_Map;Persist Security Info=True;User ID=Awareness" SettingsObjectName="KIP_Omniture.Properties.Settings" SettingsPropertyName="Awareness_MapConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Geo_Totals" Member="Geo_Totals">
+    <Type Name="Geo_Total">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Geo_Country" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Geo_City" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Geo_Region" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Geo_Capital_Latitude" Type="System.Decimal" DbType="Decimal(12,8)" CanBeNull="true" />
+      <Column Name="Geo_Capital_Longitude" Type="System.Decimal" DbType="Decimal(12,8)" CanBeNull="true" />
+      <Column Name="FaceBook" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Twitter" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="YouTube" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Omniture" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Heartbeat" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.omniture_counts" Member="omniture_counts">
+    <Type Name="omniture_count">
+      <Column Name="Count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Geo_Country" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.omniture_raw_counts" Member="omniture_raw_counts">
+    <Type Name="omniture_raw_count">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="created_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Region" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="pageViews" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="visits" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="uniquevisitors" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="latitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+      <Column Name="longitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+      <Column Name="Geo_City" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Geo_Country" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Geo_Region" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

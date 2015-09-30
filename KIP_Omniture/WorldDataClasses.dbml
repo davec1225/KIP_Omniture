@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="World_Data" Class="WorldDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=World_Data;User ID=Awareness" SettingsObjectName="KIP_Omniture.Properties.Settings" SettingsPropertyName="World_DataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CountryCapitals" Member="CountryCapitals">
+    <Type Name="CountryCapital">
+      <Column Name="ISO2" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Latitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+      <Column Name="Longitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CountryCity" Member="CountryCities">
+    <Type Name="CountryCity">
+      <Column Name="ISO2" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="FIPS104" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="ISO3" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="ISON" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TLD" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Capital" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Continent" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="NationalitySingular" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="NationalityPlural" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Currency" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CurrencyCode" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="Population" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CityID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="RC" Type="System.String" DbType="VarChar(2)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="AccentCity" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Latitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+      <Column Name="Longitude" Type="System.Decimal" DbType="Decimal(18,8)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

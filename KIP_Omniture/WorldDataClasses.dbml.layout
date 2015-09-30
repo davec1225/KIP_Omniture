@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WorldDataClasses">
+  <DataContextMoniker Name="/WorldDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8a60c307-6bd1-4358-999c-90b8c2f21418" absoluteBounds="0.5, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WorldDataClassesDataContext/CountryCapital" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19c5aea9-f084-483c-b55c-411fa347d1c4" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8287b664-a094-48f1-ade0-1748bbcd5ad1" absoluteBounds="3, 0.5, 2, 4.4631168619791666">
+      <DataClassMoniker Name="/WorldDataClassesDataContext/CountryCity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="891db889-6f96-4b28-8d72-47fdaf549a4d" absoluteBounds="3.0149999999999997, 0.96, 1.9700000000000002, 3.903116861979167" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

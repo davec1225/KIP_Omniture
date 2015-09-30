@@ -1,0 +1,2275 @@
+﻿{
+	"report":{
+		"type":"trended",
+		"elements":[
+			{
+				"id":"geoRegion",
+				"name":"GeoSegmentation Region"
+			}
+		],
+		"reportSuite":{
+			"id":"npagkeepitpumpingprod",
+			"name":"Keep It Pumping Prod"
+		},
+		"period":"Thu. 13 Aug. 2015",
+		"metrics":[
+			{
+				"id":"pageViews",
+				"name":"Page Views",
+				"type":"number",
+				"decimals":0,
+				"latency":3199,
+				"current":false
+			},
+			{
+				"id":"visits",
+				"name":"Visits",
+				"type":"number",
+				"decimals":0,
+				"latency":3199,
+				"current":false
+			}
+		],
+		"data":[
+			{
+				"name":"Thu. 13 Aug. 2015",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":0,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"3",
+							"3"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"4",
+					"4"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 1)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":1,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"4",
+							"4"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"5",
+					"5"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 2)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":2,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 3)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":3,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"1",
+					"1"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 4)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":4,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"2",
+					"2"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 5)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":5,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 6)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":6,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 7)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":7,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"2",
+					"2"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 8)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":8,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"1",
+					"1"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 9)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":9,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"3",
+							"3"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"4",
+					"4"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 10)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":10,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"2",
+							"2"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"2",
+					"2"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 11)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":11,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"5",
+							"5"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"2",
+							"2"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"4",
+							"4"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"11",
+					"11"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 12)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":12,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"3",
+					"3"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 13)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":13,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"12",
+							"12"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"4",
+							"4"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"17",
+					"17"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 14)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":14,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"1",
+					"1"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 15)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":15,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"4",
+					"4"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 16)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":16,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"1",
+							"1"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"2",
+							"2"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"4",
+					"4"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 17)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":17,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"4",
+							"4"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"7",
+							"7"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"2",
+							"2"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"6",
+							"6"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"19",
+					"19"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 18)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":18,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 19)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":19,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 20)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":20,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 21)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":21,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 22)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":22,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			},
+			{
+				"name":"Thu. 13 Aug. 2015 (Hour 23)",
+				"year":2015,
+				"month":8,
+				"day":13,
+				"hour":23,
+				"breakdown":[
+					{
+						"name":"Richmond Upon Thames (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Mexico (Mexico)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Slaskie (Poland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Hampshire (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"New York (United States)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"London (United Kingdom)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Basel-Stadt (Switzerland)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Stockholms Lan (Sweden)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Tel-Aviv (Israel)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					},
+					{
+						"name":"Haryana (India)",
+						"url":"",
+						"counts":[
+							"0",
+							"0"
+						]
+					}
+				],
+				"breakdownTotal":[
+					"0",
+					"0"
+				]
+			}
+		],
+		"totals":[
+			"80",
+			"80"
+		],
+		"version":"1.4.15.5"
+	},
+	"waitSeconds":"1.353",
+	"runSeconds":"2.316"
+}

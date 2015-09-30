@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KIP_Omniture.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CreateReportEndpoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api3.omniture.com/admin/1.4/rest/?method=Report.Queue</Value>
+    </Setting>
+    <Setting Name="CreateReportRequest" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">X-WSSE: UsernameToken Username="jeff.herz:Novartis Pharma AG", PasswordDigest="Dt3sCPjFCjyXCij1/Q+tuxyccMQ=", Nonce="ZWFmZTU0MTIzOGNiZjhiZjQ1MTg3NjZk", Created="2015-08-13T20:43:29Z"</Value>
+    </Setting>
+    <Setting Name="USERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jeff.herz:Novartis Pharma AG</Value>
+    </Setting>
+    <Setting Name="SECRET" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0996c7669837c54a5f3e6590e926279b</Value>
+    </Setting>
+    <Setting Name="ENDPOINT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api3.omniture.com/admin/1.4/rest/</Value>
+    </Setting>
+    <Setting Name="World_DataConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=World_Data;User ID=Awareness;Password=AwarenessPassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=World_Data;User ID=Awareness;Password=AwarenessPassword</Value>
+    </Setting>
+    <Setting Name="Awareness_MapConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=Awareness_Map;Persist Security Info=True;User ID=Awareness;Password=AwarenessPassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=kip-awareness.cnnxpazukb57.eu-west-1.rds.amazonaws.com;Initial Catalog=Awareness_Map;Persist Security Info=True;User ID=Awareness;Password=AwarenessPassword</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
